@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/csjoblinksreddit/airbnbcrimedata#readme",
   "dependencies": {
-    "aws-sdk": "^2.738.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.20.0",
     "body-parser": "^1.19.0",
     "dotenv": "^8.2.0",
